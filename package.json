@@ -1,0 +1,33 @@
+{
+  "name": "bc-28-day1-oop",
+  "version": "1.0.0",
+  "description": "An OOP program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iidrees/BC-28-Day1-OOP.git"
+  },
+  "author": "Idrees Ibraheem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iidrees/BC-28-Day1-OOP/issues"
+  },
+  "homepage": "https://github.com/iidrees/BC-28-Day1-OOP#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "chai": "^4.1.2",
+    "eslint": "^4.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "mocha": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
